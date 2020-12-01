@@ -1,0 +1,9 @@
+[submodule "packages"]
+	path = packages
+	url = https://github.com/JollyWizard/hf-packages-dir.git
+[submodule "themes"]
+	path = themes
+	url = https://github.com/JollyWizard/hf-themes-dir.git
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/JollyWizard/hf-plugins-dir.git

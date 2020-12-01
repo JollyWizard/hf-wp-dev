@@ -7,3 +7,6 @@
 [submodule "plugins"]
 	path = plugins
 	url = https://github.com/JollyWizard/hf-plugins-dir.git
+[submodule "uploads"]
+	path = uploads
+	url = https://github.com/JollyWizard/hf-uploads-dir.git
